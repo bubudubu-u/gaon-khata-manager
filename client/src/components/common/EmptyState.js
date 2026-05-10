@@ -45,4 +45,12 @@ const EmptyState = ({
           {actionText}
         </Link>
       ) : onAction ? (
-        <button onClick={onAction} className="btn btn
+        <button onClick={onAction} className="btn btn-primary">
+          {actionText}
+        </button>
+      ) : null}
+    </div>
+  );
+};
+
+export default EmptyState;
