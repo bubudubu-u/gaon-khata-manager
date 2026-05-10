@@ -1,0 +1,29 @@
+{
+  "short_name": "Gaon Khata",
+  "name": "Gaon Khata Manager - गाँव खाता मैनेजर",
+  "description": "Digital Land Record Management for Farmers",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a472a",
+  "background_color": "#f0f4f1",
+  "orientation": "portrait-primary",
+  "lang": "hi-IN",
+  "categories": ["agriculture", "finance", "productivity"]
+}
